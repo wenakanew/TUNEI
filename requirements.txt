@@ -7,3 +7,4 @@ serpapi
 telethon
 textblob
 serpapi
+google-search-results
