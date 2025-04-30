@@ -6,3 +6,4 @@ python-dotenv
 serpapi
 telethon
 textblob
+serpapi
