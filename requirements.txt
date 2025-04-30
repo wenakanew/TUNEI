@@ -6,5 +6,4 @@ python-dotenv
 serpapi
 telethon
 textblob
-TelegramClient
 google-search-results
