@@ -1,0 +1,8 @@
+streamlit
+requests
+feedparser
+tweepy
+python-dotenv
+serpapi
+telethon
+textblob
