@@ -121,9 +121,6 @@ streamlit run app.py
 tunei/
 ├── app.py               # Main Streamlit App
 ├── .env                 # Environment variables
-├── components/          # UI Components (Optional)
-├── utils/               # Helpers for parsing, summarizing
-├── assets/              # Icons, logos, sample images
 ├── README.md
 └── requirements.txt
 ```
